@@ -345,9 +345,9 @@ body{
     }
     .main-text{
         width: 290px;
-        margin-top: 36%;
+        margin-top: 37%;
         font-size: 18px;
-        margin-left: 10px;
+        margin-left: 28px;
         position: relative;
         text-align: center;
         padding: 0px 10px;
@@ -467,7 +467,7 @@ body{
     }
     .curve-bg2{
         background: rgba(99, 4, 136, 0.082);
-        width: 150px;
+        width: 200px;
         height: 70vh;
         border-top-left-radius: 250px;
         top: 400px;
